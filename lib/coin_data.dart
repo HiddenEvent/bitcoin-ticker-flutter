@@ -22,10 +22,12 @@ const List<String> currenciesList = [
   'ZAR'
 ];
 
-const List<String> cryptoList = [
+const List<String> coinData = [
   'BTC',
   'ETH',
   'LTC',
 ];
 
-class CoinData {}
+class CoinData {
+
+}
